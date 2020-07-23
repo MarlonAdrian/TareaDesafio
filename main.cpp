@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//DECLARACIONES DE FUNCIONES
+//DECLARACIONES DE FUNCIONES. 
 
 int main()
 {
