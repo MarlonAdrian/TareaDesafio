@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//DECLARACIONES DE FUNCIONES
+
 int main()
 {
 int a [5], b[5], i, k=0, h=0;
